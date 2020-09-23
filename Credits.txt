@@ -1,0 +1,39 @@
+Designer was first created in 1998. Since then, I've been adding code from other programmers and adding my own. I have borrowed code from the following people and their applications and I would like to extend my thanks to them:
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+WonderHTML 1.2 Deluxe Edition: 2001 BETA release
+(C) Sushant S. Pandurangi, [sushant@phreaker.net]
+
+I used this program for the main base of Designer. I did a lot of modifying to the GUI (especially the MDI form) and some of the code. Some of his commenting was deleted, sorry Sushant
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Andrea Batina (MRU Code)
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Character Map - I forgot the author's name...but it's not all my code. 
+I did make some modifications to the GUI for use in this program.
+The AsciiQuoted text file is not finished, so it won't show all the 
+HTML codes as I want. I will update it for you if you want.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Matthew M. Roberts:
+UpdateTable Sub in frmConfigFormat
+PopulateVals Sub in frmConfigFormat
+RemoveCommand Sub in frmConfigFormat
+
+-----  frmConfigFormat allows you to create well formatted
+HTML code much like Ulli's VB Code formatter a database
+of pre formatted code info is included in the zip
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Those mentioned above are the main contributers of code I used from PSC. If you see code that looks like yours, DO NOT accuse me of stealing it. It's on PSC for anyone to use and modify. Any code I get from PSC is modified for use in my programs.
+
+If you have any other questions on the use, let me know.
+
+Sean Young
+Queen City Software
