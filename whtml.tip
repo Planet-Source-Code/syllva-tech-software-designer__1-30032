@@ -1,0 +1,19 @@
+That you can right-click the main MDI window, to pop up menus, also by using the additional Shift and Ctrl accelerators?
+That you can insert a stream of symbols, by using the stream command in the HTML menu?
+That you can insert today's date and time by using the commands in the Document menu?
+That you can specify if or not to select find results by setting the value of SelectFind=True in the INI file?
+That you can specify a font for the dialogs as well, by setting the value of DisplayFont in the INI file?
+That you can specify not to see the splash screen at startup, by setting NoSplash=True in the INI file?
+That you can preview the current document as it would look in your default web browser?
+That you can convert heaps of HTML documents into plain text using the HTML to ASCII conversion engine? (Beta)
+That the tags and elements of the current document are automatically listed in the Do&cument outline?
+That you can manage scripts and files with ease using the &ScriptView as a favourites list?
+That you can revert to the previously saved version of the file by using the 'Re&vert...' command?
+That Designer stores settings in a text based INI file, which you can edit and manipulate to suit your options?
+That you can specify your name to be inserted in every document as the author?
+That you can specify attributes to insert in the BODY tag of each document by default?
+That the toolbar can have text labels as well, which you can configure by right-clicking it?
+That you can zoom in or out while viewing images, and copy images to the clipboard?
+That you can quickly insert a link to a file directly from the FileTree?
+That you can quickly jump to the definition of a particular Javascript function or variable by using the ScriptView?
+That the ScriptView also doubles up as a Favourites list?
